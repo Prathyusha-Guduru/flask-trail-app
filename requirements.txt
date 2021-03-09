@@ -31,7 +31,6 @@ six==1.15.0
 SQLAlchemy 
 toml==0.10.1
 tornado==6.0.4
-traitlets==5.0.4
 wcwidth==0.2.5
 Werkzeug 
 wincertstore==0.2
