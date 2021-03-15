@@ -36,4 +36,4 @@ Werkzeug
 wincertstore==0.2
 wrapt==1.12.1
 WTForms 
-gunicorn==0.14.2
+gunicorn
